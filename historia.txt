@@ -6,3 +6,6 @@ Desde que naci hasta ahora.
 
 
 ¡Hola Mudo Git!
+
+
+Me gusta jugar Futbol y Programar.
