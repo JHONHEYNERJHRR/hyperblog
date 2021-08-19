@@ -2,5 +2,24 @@ body
 {
     text-align: center;
     font-family: "arial";
-    
+    /* border-color: rgb(0, 104, 130); */
+    /* background-color: rgb(84, 180, 204); */
+    color: #333;
+    margin: 0;
+    font-size: 16px;
+    padding: 0;
+}
+
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #ddd;
+    margin: 0 auto;
+}
+
+#container h1
+{
+    font-size: 20px;
 }
